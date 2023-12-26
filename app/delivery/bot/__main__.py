@@ -5,8 +5,7 @@ from aiogram.types import BotCommand
 
 from app.apps.core.bot.routes.user_router import router as core_router
 from app.apps.core.bot.routes.admin_router import router as admin_router
-from app.config.bot import RUNNING_MODE, TG_TOKEN, RunningMode
-from app.apps.core.bot.middlewares_list import route_middlewares as mws
+from app.config.bot import MIDDLEWARE, RUNNING_MODE, RunningMode, TG_TOKEN
 
 bot = Bot(TG_TOKEN, parse_mode="HTML")
 
@@ -31,7 +30,7 @@ def _register_routers() -> None:
 #     )
 
 def _register_middleware() -> None:
-    for m in mws:
+    for m in MIDDLEWARE:
         dispatcher.update.outer_middleware.register(m())
 
 

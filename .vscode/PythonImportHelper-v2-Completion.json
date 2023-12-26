@@ -1790,30 +1790,6 @@
         "documentation": {}
     },
     {
-        "label": "MainMiddleware",
-        "importPath": "app.apps.core.bot.middlewares.main",
-        "description": "app.apps.core.bot.middlewares.main",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.middlewares.main",
-        "documentation": {}
-    },
-    {
-        "label": "LanguageMiddleware",
-        "importPath": "app.apps.core.bot.middlewares.language",
-        "description": "app.apps.core.bot.middlewares.language",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.middlewares.language",
-        "documentation": {}
-    },
-    {
-        "label": "HasTariffMiddleware",
-        "importPath": "app.apps.core.bot.middlewares.has_tariff",
-        "description": "app.apps.core.bot.middlewares.has_tariff",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.middlewares.has_tariff",
-        "documentation": {}
-    },
-    {
         "label": "Faker",
         "importPath": "faker",
         "description": "faker",
@@ -1971,6 +1947,30 @@
         "description": "app.config",
         "isExtraImport": true,
         "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "MainMiddleware",
+        "importPath": "app.apps.core.bot.middlewares.main",
+        "description": "app.apps.core.bot.middlewares.main",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.middlewares.main",
+        "documentation": {}
+    },
+    {
+        "label": "LanguageMiddleware",
+        "importPath": "app.apps.core.bot.middlewares.language",
+        "description": "app.apps.core.bot.middlewares.language",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.middlewares.language",
+        "documentation": {}
+    },
+    {
+        "label": "HasTariffMiddleware",
+        "importPath": "app.apps.core.bot.middlewares.has_tariff",
+        "description": "app.apps.core.bot.middlewares.has_tariff",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.middlewares.has_tariff",
         "documentation": {}
     },
     {
@@ -2486,15 +2486,6 @@
         "documentation": {}
     },
     {
-        "label": "route_middlewares",
-        "kind": 5,
-        "importPath": "app.apps.core.bot.middlewares_list",
-        "description": "app.apps.core.bot.middlewares_list",
-        "peekOfCode": "route_middlewares = (\n    HasTariffMiddleware,\n    MainMiddleware,\n    LanguageMiddleware\n)",
-        "detail": "app.apps.core.bot.middlewares_list",
-        "documentation": {}
-    },
-    {
         "label": "GetUsername",
         "kind": 6,
         "importPath": "app.apps.core.bot.states",
@@ -2661,7 +2652,7 @@
         "kind": 6,
         "importPath": "app.config.bot",
         "description": "app.config.bot",
-        "peekOfCode": "class RunningMode(str, Enum):\n    LONG_POLLING = \"LONG_POLLING\"\n    WEBHOOK = \"WEBHOOK\"\nTG_TOKEN = env(\"TG_TOKEN\", cast=str)\nRUNNING_MODE = env(\"RUNNING_MODE\", cast=RunningMode, default=RunningMode.LONG_POLLING)\nWEBHOOK_URL = env(\"WEBHOOK_URL\", cast=str, default=\"\")",
+        "peekOfCode": "class RunningMode(str, Enum):\n    LONG_POLLING = \"LONG_POLLING\"\n    WEBHOOK = \"WEBHOOK\"\nTG_TOKEN = env(\"TG_TOKEN\", cast=str)\nRUNNING_MODE = env(\"RUNNING_MODE\", cast=RunningMode, default=RunningMode.LONG_POLLING)\nWEBHOOK_URL = env(\"WEBHOOK_URL\", cast=str, default=\"\")\nMIDDLEWARE = (\n    HasTariffMiddleware,\n    MainMiddleware,\n    LanguageMiddleware",
         "detail": "app.config.bot",
         "documentation": {}
     },
@@ -2670,7 +2661,7 @@
         "kind": 5,
         "importPath": "app.config.bot",
         "description": "app.config.bot",
-        "peekOfCode": "TG_TOKEN = env(\"TG_TOKEN\", cast=str)\nRUNNING_MODE = env(\"RUNNING_MODE\", cast=RunningMode, default=RunningMode.LONG_POLLING)\nWEBHOOK_URL = env(\"WEBHOOK_URL\", cast=str, default=\"\")",
+        "peekOfCode": "TG_TOKEN = env(\"TG_TOKEN\", cast=str)\nRUNNING_MODE = env(\"RUNNING_MODE\", cast=RunningMode, default=RunningMode.LONG_POLLING)\nWEBHOOK_URL = env(\"WEBHOOK_URL\", cast=str, default=\"\")\nMIDDLEWARE = (\n    HasTariffMiddleware,\n    MainMiddleware,\n    LanguageMiddleware\n)",
         "detail": "app.config.bot",
         "documentation": {}
     },
@@ -2679,7 +2670,7 @@
         "kind": 5,
         "importPath": "app.config.bot",
         "description": "app.config.bot",
-        "peekOfCode": "RUNNING_MODE = env(\"RUNNING_MODE\", cast=RunningMode, default=RunningMode.LONG_POLLING)\nWEBHOOK_URL = env(\"WEBHOOK_URL\", cast=str, default=\"\")",
+        "peekOfCode": "RUNNING_MODE = env(\"RUNNING_MODE\", cast=RunningMode, default=RunningMode.LONG_POLLING)\nWEBHOOK_URL = env(\"WEBHOOK_URL\", cast=str, default=\"\")\nMIDDLEWARE = (\n    HasTariffMiddleware,\n    MainMiddleware,\n    LanguageMiddleware\n)",
         "detail": "app.config.bot",
         "documentation": {}
     },
@@ -2688,7 +2679,16 @@
         "kind": 5,
         "importPath": "app.config.bot",
         "description": "app.config.bot",
-        "peekOfCode": "WEBHOOK_URL = env(\"WEBHOOK_URL\", cast=str, default=\"\")",
+        "peekOfCode": "WEBHOOK_URL = env(\"WEBHOOK_URL\", cast=str, default=\"\")\nMIDDLEWARE = (\n    HasTariffMiddleware,\n    MainMiddleware,\n    LanguageMiddleware\n)",
+        "detail": "app.config.bot",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "app.config.bot",
+        "description": "app.config.bot",
+        "peekOfCode": "MIDDLEWARE = (\n    HasTariffMiddleware,\n    MainMiddleware,\n    LanguageMiddleware\n)",
         "detail": "app.config.bot",
         "documentation": {}
     },
