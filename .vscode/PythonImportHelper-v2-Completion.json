@@ -313,6 +313,14 @@
         "documentation": {}
     },
     {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
         "label": "async_to_sync",
         "importPath": "asgiref.sync",
         "description": "asgiref.sync",
@@ -1724,6 +1732,14 @@
         "documentation": {}
     },
     {
+        "label": "DTO",
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "isExtraImport": true,
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
         "label": "TariffDto",
         "importPath": "app.apps.core.DTO",
         "description": "app.apps.core.DTO",
@@ -1854,19 +1870,11 @@
         "documentation": {}
     },
     {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
+        "label": "Model",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
         "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
+        "detail": "django.db.models",
         "documentation": {}
     },
     {
@@ -1875,6 +1883,38 @@
         "description": "django.db.models",
         "isExtraImport": true,
         "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "TarInfo",
+        "importPath": "tarfile",
+        "description": "tarfile",
+        "isExtraImport": true,
+        "detail": "tarfile",
+        "documentation": {}
+    },
+    {
+        "label": "BaseRepository",
+        "importPath": "app.apps.core.repositories.base",
+        "description": "app.apps.core.repositories.base",
+        "isExtraImport": true,
+        "detail": "app.apps.core.repositories.base",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
         "documentation": {}
     },
     {
@@ -2566,7 +2606,7 @@
         "kind": 6,
         "importPath": "app.apps.core.repositories.base",
         "description": "app.apps.core.repositories.base",
-        "peekOfCode": "class BaseRepository:\n    def to_list(sql):\n        return [item for item in sql]",
+        "peekOfCode": "class BaseRepository:\n    model:Model\n    def to_list(sql):\n        return [item for item in sql]\n    @sync_to_async\n    def delete_all(self):\n        return self.model.objects.all().delete()\n    @sync_to_async\n    def get_all(self,  **args):\n        query = self.model.objects",
         "detail": "app.apps.core.repositories.base",
         "documentation": {}
     },
@@ -2575,7 +2615,7 @@
         "kind": 6,
         "importPath": "app.apps.core.repositories.tariff_repository",
         "description": "app.apps.core.repositories.tariff_repository",
-        "peekOfCode": "class TariffRepository:\n    @sync_to_async\n    def save(self: None, data: dict) -> tuple[TariffPlan, bool]:\n        return TariffPlan.objects.create(\n            name=data['name'],\n            group_quantity=data['group_quantity'],\n            keyword_quantity=data['keyword_quantity'],\n            old_messages_offset=data['old_messages_offset'],\n            daemon_hours_quantity=data['daemon_hours_quantity']\n        )",
+        "peekOfCode": "class TariffRepository(BaseRepository):\n    model = TariffPlan\n    @sync_to_async\n    def get_default(self) -> TariffPlan:\n        return self.model.objects.filter(is_default=True).first()\n    @sync_to_async\n    def attach_default_to_user(self, user: TelegramUser) -> TariffPlan:\n        try:\n            default = self.model.objects.filter(is_default=True).first()\n            user.tariff_plan = default",
         "detail": "app.apps.core.repositories.tariff_repository",
         "documentation": {}
     },
@@ -2584,7 +2624,7 @@
         "kind": 6,
         "importPath": "app.apps.core.repositories.user_repository",
         "description": "app.apps.core.repositories.user_repository",
-        "peekOfCode": "class UserRepository:\n    message: Message\n    @sync_to_async\n    def save(self: None, data: dict) -> tuple[TelegramUser, bool]:\n        return TelegramUser.objects.get_or_create(\n            telegram_id=data['telegram_id'],\n            telegram_username=data['telegram_username'],\n            telegram_name=data['telegram_name'],\n        )\n    @sync_to_async",
+        "peekOfCode": "class UserRepository:\n    message: Message\n    model = TelegramUser\n    @sync_to_async\n    def save_and_set_tariff(self: None, data: dict, tariff: TariffPlan | None = None, get_entities: bool | None = None):\n        user = TelegramUser.objects.filter(\n            telegram_id=data['telegram_id']).first()\n        if (not user):\n            user = TelegramUser(telegram_id=data['telegram_id'])\n        if (not tariff):",
         "detail": "app.apps.core.repositories.user_repository",
         "documentation": {}
     },
