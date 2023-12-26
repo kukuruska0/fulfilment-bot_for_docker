@@ -1,0 +1,52 @@
+{
+    "say_hello": "Say hello",
+    "get_started": "Let's get started",
+    "start": {
+        "welcome": "Welcome!",
+        "question_name": "How should I contact you?",
+        "registered": {
+            "welcome": ""
+        }
+    },
+    "wrong":{
+        "name":"Invalid name",
+        "action":"Action not possible",
+        "tariff_limit": "Maximum limit for your tariff"
+    },
+    "buy": "Buy",
+    "account": "Account",
+    "search": "Search",
+    "ticket": "Ticket",
+    "number": "Number",
+    "info":{
+        "try_again":"Please try again later",
+        "max_count_reached": "Maximum count reached",
+        "tariff":{
+            "name":"Your tariff: {name}",
+            "available": "Available to you"
+        }
+    },
+    "actions":{
+        "enter": "Enter "
+    },
+    "buttons": {
+        "choice_action": "Choose an action",
+        "status": "Status",
+        "save": "Save",
+        "delete": "Delete",
+        "clear": "Clear",
+        "menu": "Menu",
+        "profile": "Profile",
+        "allowed_rules": "I agree with the rules",
+        "start_work": "Start work",
+        "bot": {
+            "tariff": "Tariff",
+            "start": "Start work",
+            "nex_step": "Next step"
+        },
+        "tariff": {
+            "name": "Tariff",
+            "change": "Change Tariff"
+        }
+    }
+}

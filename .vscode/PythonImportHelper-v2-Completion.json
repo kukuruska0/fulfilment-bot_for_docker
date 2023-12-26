@@ -1,0 +1,2920 @@
+[
+    {
+        "label": "aiogram",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CanResponse",
+        "importPath": "app.apps.core.bot.services.can_response",
+        "description": "app.apps.core.bot.services.can_response",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.can_response",
+        "documentation": {}
+    },
+    {
+        "label": "CanResponse",
+        "importPath": "app.apps.core.bot.services.can_response",
+        "description": "app.apps.core.bot.services.can_response",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.can_response",
+        "documentation": {}
+    },
+    {
+        "label": "CanResponse",
+        "importPath": "app.apps.core.bot.services.can_response",
+        "description": "app.apps.core.bot.services.can_response",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.can_response",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "isExtraImport": true,
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "isExtraImport": true,
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "isExtraImport": true,
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "isExtraImport": true,
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "isExtraImport": true,
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "isExtraImport": true,
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Final",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Final",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Final",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Final",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommand",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommand",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommand",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "StatesGroup",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "StatesGroup",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "StatesGroup",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "StatesGroup",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.apps.core.repositories.user_repository",
+        "description": "app.apps.core.repositories.user_repository",
+        "isExtraImport": true,
+        "detail": "app.apps.core.repositories.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.apps.core.repositories.user_repository",
+        "description": "app.apps.core.repositories.user_repository",
+        "isExtraImport": true,
+        "detail": "app.apps.core.repositories.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.apps.core.repositories.user_repository",
+        "description": "app.apps.core.repositories.user_repository",
+        "isExtraImport": true,
+        "detail": "app.apps.core.repositories.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.apps.core.repositories.user_repository",
+        "description": "app.apps.core.repositories.user_repository",
+        "isExtraImport": true,
+        "detail": "app.apps.core.repositories.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.apps.core.repositories.user_repository",
+        "description": "app.apps.core.repositories.user_repository",
+        "isExtraImport": true,
+        "detail": "app.apps.core.repositories.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "HasIogramEntites",
+        "importPath": "app.apps.core.bot.services.has_iogram_entities",
+        "description": "app.apps.core.bot.services.has_iogram_entities",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.has_iogram_entities",
+        "documentation": {}
+    },
+    {
+        "label": "HasIogramEntites",
+        "importPath": "app.apps.core.bot.services.has_iogram_entities",
+        "description": "app.apps.core.bot.services.has_iogram_entities",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.has_iogram_entities",
+        "documentation": {}
+    },
+    {
+        "label": "HasIogramEntites",
+        "importPath": "app.apps.core.bot.services.has_iogram_entities",
+        "description": "app.apps.core.bot.services.has_iogram_entities",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.has_iogram_entities",
+        "documentation": {}
+    },
+    {
+        "label": "HasIogramEntites",
+        "importPath": "app.apps.core.bot.services.has_iogram_entities",
+        "description": "app.apps.core.bot.services.has_iogram_entities",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.has_iogram_entities",
+        "documentation": {}
+    },
+    {
+        "label": "messager",
+        "importPath": "app.apps.core.bot.helpers",
+        "description": "app.apps.core.bot.helpers",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "messager",
+        "importPath": "app.apps.core.bot.helpers",
+        "description": "app.apps.core.bot.helpers",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "messager",
+        "importPath": "app.apps.core.bot.helpers",
+        "description": "app.apps.core.bot.helpers",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "importPath": "app.apps.core.bot.keyboards.main",
+        "description": "app.apps.core.bot.keyboards.main",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.keyboards.main",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "importPath": "app.apps.core.bot.keyboards.main",
+        "description": "app.apps.core.bot.keyboards.main",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.keyboards.main",
+        "documentation": {}
+    },
+    {
+        "label": "force_reply",
+        "importPath": "app.apps.core.bot.keyboards.main",
+        "description": "app.apps.core.bot.keyboards.main",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.keyboards.main",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramUserCase",
+        "importPath": "app.apps.core.bot.cases.telegram_user_case",
+        "description": "app.apps.core.bot.cases.telegram_user_case",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.cases.telegram_user_case",
+        "documentation": {}
+    },
+    {
+        "label": "Case",
+        "importPath": "app.apps.core.bot.cases.__case",
+        "description": "app.apps.core.bot.cases.__case",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.cases.__case",
+        "documentation": {}
+    },
+    {
+        "label": "WorkCase",
+        "importPath": "app.apps.core.bot.cases.work_case",
+        "description": "app.apps.core.bot.cases.work_case",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.cases.work_case",
+        "documentation": {}
+    },
+    {
+        "label": "aiogram.types.inline_keyboard_markup",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiogram.types.inline_keyboard_markup",
+        "description": "aiogram.types.inline_keyboard_markup",
+        "detail": "aiogram.types.inline_keyboard_markup",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.utils.keyboard",
+        "description": "aiogram.utils.keyboard",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.utils.keyboard",
+        "description": "aiogram.utils.keyboard",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "SearchCallbackData",
+        "importPath": "app.apps.core.bot.filters",
+        "description": "app.apps.core.bot.filters",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.filters",
+        "documentation": {}
+    },
+    {
+        "label": "UserCallbackData",
+        "importPath": "app.apps.core.bot.filters",
+        "description": "app.apps.core.bot.filters",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.filters",
+        "documentation": {}
+    },
+    {
+        "label": "UserCallbackData",
+        "importPath": "app.apps.core.bot.filters",
+        "description": "app.apps.core.bot.filters",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.filters",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "importPath": "app.services.translater",
+        "description": "app.services.translater",
+        "isExtraImport": true,
+        "detail": "app.services.translater",
+        "documentation": {}
+    },
+    {
+        "label": "Translator",
+        "importPath": "app.services.translater",
+        "description": "app.services.translater",
+        "isExtraImport": true,
+        "detail": "app.services.translater",
+        "documentation": {}
+    },
+    {
+        "label": "Translator",
+        "importPath": "app.services.translater",
+        "description": "app.services.translater",
+        "isExtraImport": true,
+        "detail": "app.services.translater",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "importPath": "app.services.translater",
+        "description": "app.services.translater",
+        "isExtraImport": true,
+        "detail": "app.services.translater",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "importPath": "app.services.translater",
+        "description": "app.services.translater",
+        "isExtraImport": true,
+        "detail": "app.services.translater",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "make_inline_btn",
+        "importPath": "app.apps.core.bot.keyboards.buttons",
+        "description": "app.apps.core.bot.keyboards.buttons",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.keyboards.buttons",
+        "documentation": {}
+    },
+    {
+        "label": "asgiref.sync",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "async_to_sync",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "async_to_sync",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "async_to_sync",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "TariffPlan",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramUser",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Search",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "TariffPlan",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramUser",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Search",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "TariffPlan",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramUser",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "TariffPlan",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramUser",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Search",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "TariffPlan",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramUser",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Search",
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "isExtraImport": true,
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "HomeController",
+        "importPath": "app.apps.core.bot.controllers.admin.home_controller",
+        "description": "app.apps.core.bot.controllers.admin.home_controller",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.controllers.admin.home_controller",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "app.apps.core.bot.services.router",
+        "description": "app.apps.core.bot.services.router",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.router",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "app.apps.core.bot.services.router",
+        "description": "app.apps.core.bot.services.router",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.router",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.utils.formatting",
+        "description": "aiogram.utils.formatting",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.formatting",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.utils.formatting",
+        "description": "aiogram.utils.formatting",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.formatting",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.utils.formatting",
+        "description": "aiogram.utils.formatting",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.formatting",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.utils.formatting",
+        "description": "aiogram.utils.formatting",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.formatting",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "aiogram.utils.formatting",
+        "description": "aiogram.utils.formatting",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.formatting",
+        "documentation": {}
+    },
+    {
+        "label": "HomeController",
+        "importPath": "app.apps.core.bot.controllers.home_controller",
+        "description": "app.apps.core.bot.controllers.home_controller",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.controllers.home_controller",
+        "documentation": {}
+    },
+    {
+        "label": "Responder",
+        "importPath": "app.apps.core.bot.services.responder",
+        "description": "app.apps.core.bot.services.responder",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.responder",
+        "documentation": {}
+    },
+    {
+        "label": "Responder",
+        "importPath": "app.apps.core.bot.services.responder",
+        "description": "app.apps.core.bot.services.responder",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.responder",
+        "documentation": {}
+    },
+    {
+        "label": "Responder",
+        "importPath": "app.apps.core.bot.services.responder",
+        "description": "app.apps.core.bot.services.responder",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.responder",
+        "documentation": {}
+    },
+    {
+        "label": "Redis",
+        "importPath": "app.services.redis",
+        "description": "app.services.redis",
+        "isExtraImport": true,
+        "detail": "app.services.redis",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramBadRequest",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Messager",
+        "importPath": "app.apps.core.bot.services.messager",
+        "description": "app.apps.core.bot.services.messager",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.messager",
+        "documentation": {}
+    },
+    {
+        "label": "Messager",
+        "importPath": "app.apps.core.bot.services.messager",
+        "description": "app.apps.core.bot.services.messager",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.messager",
+        "documentation": {}
+    },
+    {
+        "label": "SearchDto",
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "isExtraImport": true,
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
+        "label": "TariffDto",
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "isExtraImport": true,
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
+        "label": "KeywordsDto",
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "isExtraImport": true,
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
+        "label": "TariffDto",
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "isExtraImport": true,
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
+        "label": "KeywordsDto",
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "isExtraImport": true,
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
+        "label": "TariffDto",
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "isExtraImport": true,
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
+        "label": "TariffDto",
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "isExtraImport": true,
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramInfoDto",
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "isExtraImport": true,
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
+        "label": "SearchTelegramAccount",
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "isExtraImport": true,
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
+        "label": "SearchTelegramAccount",
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "isExtraImport": true,
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramWalker",
+        "importPath": "app.services.search_services.telegram_walker",
+        "description": "app.services.search_services.telegram_walker",
+        "isExtraImport": true,
+        "detail": "app.services.search_services.telegram_walker",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.enums",
+        "description": "aiogram.enums",
+        "isExtraImport": true,
+        "detail": "aiogram.enums",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackType",
+        "importPath": "aiogram.dispatcher.event.handler",
+        "description": "aiogram.dispatcher.event.handler",
+        "isExtraImport": true,
+        "detail": "aiogram.dispatcher.event.handler",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackData",
+        "importPath": "aiogram.filters.callback_data",
+        "description": "aiogram.filters.callback_data",
+        "isExtraImport": true,
+        "detail": "aiogram.filters.callback_data",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "MainMiddleware",
+        "importPath": "app.apps.core.bot.middlewares.main",
+        "description": "app.apps.core.bot.middlewares.main",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.middlewares.main",
+        "documentation": {}
+    },
+    {
+        "label": "LanguageMiddleware",
+        "importPath": "app.apps.core.bot.middlewares.language",
+        "description": "app.apps.core.bot.middlewares.language",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.middlewares.language",
+        "documentation": {}
+    },
+    {
+        "label": "HasTariffMiddleware",
+        "importPath": "app.apps.core.bot.middlewares.has_tariff",
+        "description": "app.apps.core.bot.middlewares.has_tariff",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.middlewares.has_tariff",
+        "documentation": {}
+    },
+    {
+        "label": "Faker",
+        "importPath": "faker",
+        "description": "faker",
+        "isExtraImport": true,
+        "detail": "faker",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "SearchType",
+        "importPath": "app.apps.core.bot.enum",
+        "description": "app.apps.core.bot.enum",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.enum",
+        "documentation": {}
+    },
+    {
+        "label": "SearchStatus",
+        "importPath": "app.apps.core.bot.enum",
+        "description": "app.apps.core.bot.enum",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.enum",
+        "documentation": {}
+    },
+    {
+        "label": "SearchType",
+        "importPath": "app.apps.core.bot.enum",
+        "description": "app.apps.core.bot.enum",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.enum",
+        "documentation": {}
+    },
+    {
+        "label": "HasAttributes",
+        "importPath": "app.services.has_attributes",
+        "description": "app.services.has_attributes",
+        "isExtraImport": true,
+        "detail": "app.services.has_attributes",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "GenericForeignKey",
+        "importPath": "django.contrib.contenttypes.fields",
+        "description": "django.contrib.contenttypes.fields",
+        "isExtraImport": true,
+        "detail": "django.contrib.contenttypes.fields",
+        "documentation": {}
+    },
+    {
+        "label": "GenericRelation",
+        "importPath": "django.contrib.contenttypes.fields",
+        "description": "django.contrib.contenttypes.fields",
+        "isExtraImport": true,
+        "detail": "django.contrib.contenttypes.fields",
+        "documentation": {}
+    },
+    {
+        "label": "ContentType",
+        "importPath": "django.contrib.contenttypes.models",
+        "description": "django.contrib.contenttypes.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.contenttypes.models",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "dj_database_url",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dj_database_url",
+        "description": "dj_database_url",
+        "detail": "dj_database_url",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "split_settings.tools",
+        "description": "split_settings.tools",
+        "isExtraImport": true,
+        "detail": "split_settings.tools",
+        "documentation": {}
+    },
+    {
+        "label": "CommaSeparatedStrings",
+        "importPath": "starlette.datastructures",
+        "description": "starlette.datastructures",
+        "isExtraImport": true,
+        "detail": "starlette.datastructures",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "URLPattern",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "URLResolver",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "importPath": "app.config.web",
+        "description": "app.config.web",
+        "isExtraImport": true,
+        "detail": "app.config.web",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "importPath": "app.config.web",
+        "description": "app.config.web",
+        "isExtraImport": true,
+        "detail": "app.config.web",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "BaseClient",
+        "importPath": "app.services.search_services.base",
+        "description": "app.services.search_services.base",
+        "isExtraImport": true,
+        "detail": "app.services.search_services.base",
+        "documentation": {}
+    },
+    {
+        "label": "AiohttpSession",
+        "importPath": "aiogram.client.session.aiohttp",
+        "description": "aiogram.client.session.aiohttp",
+        "isExtraImport": true,
+        "detail": "aiogram.client.session.aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "RUNNING_MODE",
+        "importPath": "app.config.bot",
+        "description": "app.config.bot",
+        "isExtraImport": true,
+        "detail": "app.config.bot",
+        "documentation": {}
+    },
+    {
+        "label": "TG_TOKEN",
+        "importPath": "app.config.bot",
+        "description": "app.config.bot",
+        "isExtraImport": true,
+        "detail": "app.config.bot",
+        "documentation": {}
+    },
+    {
+        "label": "RunningMode",
+        "importPath": "app.config.bot",
+        "description": "app.config.bot",
+        "isExtraImport": true,
+        "detail": "app.config.bot",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorLogger",
+        "importPath": "app.services.error_logger",
+        "description": "app.services.error_logger",
+        "isExtraImport": true,
+        "detail": "app.services.error_logger",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "telethon",
+        "description": "telethon",
+        "isExtraImport": true,
+        "detail": "telethon",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramClient",
+        "importPath": "telethon",
+        "description": "telethon",
+        "isExtraImport": true,
+        "detail": "telethon",
+        "documentation": {}
+    },
+    {
+        "label": "functions",
+        "importPath": "telethon",
+        "description": "telethon",
+        "isExtraImport": true,
+        "detail": "telethon",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "importPath": "telethon",
+        "description": "telethon",
+        "isExtraImport": true,
+        "detail": "telethon",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramClient",
+        "importPath": "telethon",
+        "description": "telethon",
+        "isExtraImport": true,
+        "detail": "telethon",
+        "documentation": {}
+    },
+    {
+        "label": "telegram_daemon",
+        "importPath": "app.services.telethon_sessions",
+        "description": "app.services.telethon_sessions",
+        "isExtraImport": true,
+        "detail": "app.services.telethon_sessions",
+        "documentation": {}
+    },
+    {
+        "label": "telegram_iteration",
+        "importPath": "app.services.telethon_sessions",
+        "description": "app.services.telethon_sessions",
+        "isExtraImport": true,
+        "detail": "app.services.telethon_sessions",
+        "documentation": {}
+    },
+    {
+        "label": "PeerUser",
+        "importPath": "telethon.tl.types",
+        "description": "telethon.tl.types",
+        "isExtraImport": true,
+        "detail": "telethon.tl.types",
+        "documentation": {}
+    },
+    {
+        "label": "PeerChat",
+        "importPath": "telethon.tl.types",
+        "description": "telethon.tl.types",
+        "isExtraImport": true,
+        "detail": "telethon.tl.types",
+        "documentation": {}
+    },
+    {
+        "label": "PeerChannel",
+        "importPath": "telethon.tl.types",
+        "description": "telethon.tl.types",
+        "isExtraImport": true,
+        "detail": "telethon.tl.types",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "HomeController",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.controllers.admin.home_controller",
+        "description": "app.apps.core.bot.controllers.admin.home_controller",
+        "peekOfCode": "class HomeController(HasIogramEntites, CanResponse):\n    async def action_hello(self):\n        await self.response(messager('hello'), reply_markup=hello())",
+        "detail": "app.apps.core.bot.controllers.admin.home_controller",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.controllers._base_controller",
+        "description": "app.apps.core.bot.controllers._base_controller",
+        "peekOfCode": "class Controller(HasIogramEntites, CanResponse):\n    case: Case\n    def __init__(self, *args):\n        HasIogramEntites.__init__(self, *args)\n        self.set_to_case()\n    # def __init__(self, message: Message, bot: Bot | None = None, state: FSMContext | None = None):\n    #     HasIogramEntites.__init__(self, message, bot, state)\n    #     self.set_case()\n    def set_to_case(self):\n        if (self.case):",
+        "detail": "app.apps.core.bot.controllers._base_controller",
+        "documentation": {}
+    },
+    {
+        "label": "HomeController",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.controllers.home_controller",
+        "description": "app.apps.core.bot.controllers.home_controller",
+        "peekOfCode": "class HomeController(HasIogramEntites, CanResponse):\n    async def action_hello(self):\n        await self.response(messager('hello'), reply_markup=hello())",
+        "detail": "app.apps.core.bot.controllers.home_controller",
+        "documentation": {}
+    },
+    {
+        "label": "change_tariff_btn",
+        "kind": 2,
+        "importPath": "app.apps.core.bot.keyboards.buttons",
+        "description": "app.apps.core.bot.keyboards.buttons",
+        "peekOfCode": "def change_tariff_btn(user_id, tariff_id=None, msg_id: Message = None, action_type='expired'):\n    return make_inline_btn('buttons.tariff.change',\n                           action='buy_tariff',\n                           id=user_id,\n                           tariff_id=tariff_id,\n                           message_id=msg_id,\n                           type=action_type)\ndef make_inline_btn(\n    transl_text,\n    action: str | None = None,",
+        "detail": "app.apps.core.bot.keyboards.buttons",
+        "documentation": {}
+    },
+    {
+        "label": "make_inline_btn",
+        "kind": 2,
+        "importPath": "app.apps.core.bot.keyboards.buttons",
+        "description": "app.apps.core.bot.keyboards.buttons",
+        "peekOfCode": "def make_inline_btn(\n    transl_text,\n    action: str | None = None,\n    callback_data=UserCallbackData,\n    **args\n):\n    if (action):\n        callback_data = callback_data(**(args | {'action': action})).pack()\n    else:\n        callback_data = None",
+        "detail": "app.apps.core.bot.keyboards.buttons",
+        "documentation": {}
+    },
+    {
+        "label": "clear_btn",
+        "kind": 2,
+        "importPath": "app.apps.core.bot.keyboards.buttons",
+        "description": "app.apps.core.bot.keyboards.buttons",
+        "peekOfCode": "def clear_btn(btn_text='buttons.clear', **args):\n    return make_inline_btn(btn_text, **args)\ndef save_btn(btn_text='buttons.save', **args):\n    return make_inline_btn(btn_text, **args)\ndef request_chat_btn(id, btn_text='buttons.bot.add_chat'):\n    return KeyboardButton(\n                text=transl(btn_text),\n                request_chat=KeyboardButtonRequestChat(\n                    request_id=id, chat_is_channel=False)\n            )",
+        "detail": "app.apps.core.bot.keyboards.buttons",
+        "documentation": {}
+    },
+    {
+        "label": "save_btn",
+        "kind": 2,
+        "importPath": "app.apps.core.bot.keyboards.buttons",
+        "description": "app.apps.core.bot.keyboards.buttons",
+        "peekOfCode": "def save_btn(btn_text='buttons.save', **args):\n    return make_inline_btn(btn_text, **args)\ndef request_chat_btn(id, btn_text='buttons.bot.add_chat'):\n    return KeyboardButton(\n                text=transl(btn_text),\n                request_chat=KeyboardButtonRequestChat(\n                    request_id=id, chat_is_channel=False)\n            )\ndef request_poll_btn(btn_text='buttons.bot.add_words',type='regular'):\n    return  KeyboardButton(",
+        "detail": "app.apps.core.bot.keyboards.buttons",
+        "documentation": {}
+    },
+    {
+        "label": "request_chat_btn",
+        "kind": 2,
+        "importPath": "app.apps.core.bot.keyboards.buttons",
+        "description": "app.apps.core.bot.keyboards.buttons",
+        "peekOfCode": "def request_chat_btn(id, btn_text='buttons.bot.add_chat'):\n    return KeyboardButton(\n                text=transl(btn_text),\n                request_chat=KeyboardButtonRequestChat(\n                    request_id=id, chat_is_channel=False)\n            )\ndef request_poll_btn(btn_text='buttons.bot.add_words',type='regular'):\n    return  KeyboardButton(\n                text=transl(btn_text),\n                request_poll=KeyboardButtonPollType(type=type)",
+        "detail": "app.apps.core.bot.keyboards.buttons",
+        "documentation": {}
+    },
+    {
+        "label": "request_poll_btn",
+        "kind": 2,
+        "importPath": "app.apps.core.bot.keyboards.buttons",
+        "description": "app.apps.core.bot.keyboards.buttons",
+        "peekOfCode": "def request_poll_btn(btn_text='buttons.bot.add_words',type='regular'):\n    return  KeyboardButton(\n                text=transl(btn_text),\n                request_poll=KeyboardButtonPollType(type=type)\n            )",
+        "detail": "app.apps.core.bot.keyboards.buttons",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "kind": 2,
+        "importPath": "app.apps.core.bot.keyboards.main",
+        "description": "app.apps.core.bot.keyboards.main",
+        "peekOfCode": "def hello():\n    return InlineKeyboardMarkup(inline_keyboard=[\n        [\n            make_inline_btn(\n                    transl_text='buttons.say_hello',\n                    # action='search_status',\n                    # callback_data=UserCallbackData,\n                    # id=user_id,\n                    # chat_id=chat_id,\n                    # search_id=search_id,",
+        "detail": "app.apps.core.bot.keyboards.main",
+        "documentation": {}
+    },
+    {
+        "label": "force_reply",
+        "kind": 2,
+        "importPath": "app.apps.core.bot.keyboards.main",
+        "description": "app.apps.core.bot.keyboards.main",
+        "peekOfCode": "def force_reply(placeholder: str | None = None):\n    return ForceReply(input_field_placeholder=placeholder)",
+        "detail": "app.apps.core.bot.keyboards.main",
+        "documentation": {}
+    },
+    {
+        "label": "DbSessionMiddleware",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.middlewares.db_session_middleware",
+        "description": "app.apps.core.bot.middlewares.db_session_middleware",
+        "peekOfCode": "class DbSessionMiddleware(BaseMiddleware):\n    \"\"\"Прокидывает сессию с БД в хендлеры\"\"\"\n    async def __call__(\n        self,\n        handler: Callable[[Update, Dict[str, Any]], Awaitable[Any]],\n        event: Update,\n        data: Dict[str, Any]\n    ) -> Any:\n        async with data['session_maker']() as session:\n            data['session'] = session",
+        "detail": "app.apps.core.bot.middlewares.db_session_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "HasTariffMiddleware",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.middlewares.has_tariff",
+        "description": "app.apps.core.bot.middlewares.has_tariff",
+        "peekOfCode": "class HasTariffMiddleware(BaseMiddleware):\n    async def __call__(\n        self, \n        handler: Callable[[Update, Dict[str, Any]], Awaitable[Any]], \n        event: Update, \n        data: Dict[str, Any]\n    ) -> Any:\n        telegram_user: Union[user.User, None] = data.get('event_from_user')\n        db_user:TelegramUser = await UserRepository.find(telegram_user.id)\n        if db_user:",
+        "detail": "app.apps.core.bot.middlewares.has_tariff",
+        "documentation": {}
+    },
+    {
+        "label": "LanguageMiddleware",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.middlewares.language",
+        "description": "app.apps.core.bot.middlewares.language",
+        "peekOfCode": "class LanguageMiddleware(BaseMiddleware):\n    async def __call__(\n        self, \n        handler: Callable[[Update, Dict[str, Any]], Awaitable[Any]], \n        event: Update, \n        data: Dict[str, Any]\n    ) -> Any:\n        telegram_user: Union[user.User, None] = data.get('event_from_user')\n        await Translator.set_locale(telegram_user.language_code)\n        return await handler(event, data)",
+        "detail": "app.apps.core.bot.middlewares.language",
+        "documentation": {}
+    },
+    {
+        "label": "MainMiddleware",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.middlewares.main",
+        "description": "app.apps.core.bot.middlewares.main",
+        "peekOfCode": "class MainMiddleware(BaseMiddleware):\n    async def __call__(\n        self, \n        handler: Callable[[Update, Dict[str, Any]], Awaitable[Any]], \n        event: Update, \n        data: Dict[str, Any]\n    ) -> Any:\n        telegram_user: Union[user.User, None] = data.get('event_from_user')\n        if not telegram_user:\n            return await handler(event, data)",
+        "detail": "app.apps.core.bot.middlewares.main",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.apps.core.bot.routes.admin_router",
+        "description": "app.apps.core.bot.routes.admin_router",
+        "peekOfCode": "router = Router()\n#TODO Make for other iogram  events (done only for message action )\nrouter.action_message( HomeController, HomeController.action_hello, Command(commands=[\"start\"]))",
+        "detail": "app.apps.core.bot.routes.admin_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.apps.core.bot.routes.user_router",
+        "description": "app.apps.core.bot.routes.user_router",
+        "peekOfCode": "router = Router()\n#TODO Make for other iogram  events (done only for message action )\nrouter.action_message( HomeController, HomeController.action_hello, Command(commands=[\"start\"]))",
+        "detail": "app.apps.core.bot.routes.user_router",
+        "documentation": {}
+    },
+    {
+        "label": "CanResponse",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.services.can_response",
+        "description": "app.apps.core.bot.services.can_response",
+        "peekOfCode": "class CanResponse:\n    message: Message\n    async def remove_old_message_from_cache(self, key):\n        id = Redis().get(key)\n        if id:\n            try:\n                await self.force_delete_msg(self.message.chat.id, id)\n                return True\n            except (TelegramBadRequest):\n                return False",
+        "detail": "app.apps.core.bot.services.can_response",
+        "documentation": {}
+    },
+    {
+        "label": "HasIogramEntites",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.services.has_iogram_entities",
+        "description": "app.apps.core.bot.services.has_iogram_entities",
+        "peekOfCode": "class HasIogramEntites:\n    message: Message\n    state: FSMContext\n    message: Message\n    bot: Bot\n    chat: Chat\n    def set_message(self, message: Message):\n        self.message = message\n    def set_state(self, state: FSMContext):\n        self.state = state",
+        "detail": "app.apps.core.bot.services.has_iogram_entities",
+        "documentation": {}
+    },
+    {
+        "label": "Messager",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.services.messager",
+        "description": "app.apps.core.bot.services.messager",
+        "peekOfCode": "class Messager:\n    @staticmethod\n    def empty():\n        return Text('')\n    @staticmethod\n    def action_exception(msg):\n        return as_list(\n            Bold(\"❌\"+ transl('wrong.action')),\n            msg,\n        )",
+        "detail": "app.apps.core.bot.services.messager",
+        "documentation": {}
+    },
+    {
+        "label": "Responder",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.services.responder",
+        "description": "app.apps.core.bot.services.responder",
+        "peekOfCode": "class Responder:\n    message: Message\n    def __init__(self, entity: Bot | Message):\n        if isinstance(entity, Message):\n            self.message = entity\n            self.bot = entity.bot\n        else:\n            self.bot = entity\n    def get_content(self, content):\n        if isinstance(content, Text):",
+        "detail": "app.apps.core.bot.services.responder",
+        "documentation": {}
+    },
+    {
+        "label": "Caller",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.services.router",
+        "description": "app.apps.core.bot.services.router",
+        "peekOfCode": "class Caller:\n    controller_name = None\n    action = None\n    method_args = None\n    type = None\n    def load(self, type, c_name, action, *filters: CallbackType, m_args: dict = {}):\n        self.type = type\n        self.controller_name = c_name\n        self.action = action.__name__\n        self.method_args = m_args",
+        "detail": "app.apps.core.bot.services.router",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.services.router",
+        "description": "app.apps.core.bot.services.router",
+        "peekOfCode": "class Router(IoRouter):\n    iogram_router = IoRouter()\n    def register_callback(self, type, c_name, action, *filters: CallbackType, m_args: dict = {}):\n        call = Caller().load(\n            'message',\n            c_name,\n            action,\n            *filters,\n            m_args=m_args\n        ).get_call()",
+        "detail": "app.apps.core.bot.services.router",
+        "documentation": {}
+    },
+    {
+        "label": "SearchStatus",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.enum",
+        "description": "app.apps.core.bot.enum",
+        "peekOfCode": "class SearchStatus(Enum):\n    initial = 'В сбооре'\n    ready = 'Ожидает поиска'\n    in_process = 'В процессе'\n    error = 'Ошибка'\n    finished = 'Завершен'\nclass SearchType(Enum):\n    telegram_chats = 'Парсинг телеграмм чатов'\n    avito = 'Парсинг обьявлений Avito'",
+        "detail": "app.apps.core.bot.enum",
+        "documentation": {}
+    },
+    {
+        "label": "SearchType",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.enum",
+        "description": "app.apps.core.bot.enum",
+        "peekOfCode": "class SearchType(Enum):\n    telegram_chats = 'Парсинг телеграмм чатов'\n    avito = 'Парсинг обьявлений Avito'",
+        "detail": "app.apps.core.bot.enum",
+        "documentation": {}
+    },
+    {
+        "label": "UserCallbackData",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.filters",
+        "description": "app.apps.core.bot.filters",
+        "peekOfCode": "class UserCallbackData(CallbackData, prefix='user'):\n    action: str\n    type: str | None = None\n    id: int | None = None\n    name: str | None = None\n    search_id: int | None = None\n    tariff_id: int | None = None\n    message_id: int | str | None = None\n    keywords: dict | None = None",
+        "detail": "app.apps.core.bot.filters",
+        "documentation": {}
+    },
+    {
+        "label": "messager",
+        "kind": 2,
+        "importPath": "app.apps.core.bot.helpers",
+        "description": "app.apps.core.bot.helpers",
+        "peekOfCode": "def messager( method:str = '', *args) -> Messager|Text:\n    if method and hasattr(Messager, method) and callable(func := getattr(Messager, method)):\n        return func(*args)\n    return Messager\nasync def answer(m:Message, text, *args):\n    return await Responder(m).answer(text, *args)\ndef get_chats_sending_id():\n    return random.randint(3, 5)",
+        "detail": "app.apps.core.bot.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "get_chats_sending_id",
+        "kind": 2,
+        "importPath": "app.apps.core.bot.helpers",
+        "description": "app.apps.core.bot.helpers",
+        "peekOfCode": "def get_chats_sending_id():\n    return random.randint(3, 5)",
+        "detail": "app.apps.core.bot.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "route_middlewares",
+        "kind": 5,
+        "importPath": "app.apps.core.bot.middlewares_list",
+        "description": "app.apps.core.bot.middlewares_list",
+        "peekOfCode": "route_middlewares = (\n    HasTariffMiddleware,\n    MainMiddleware,\n    LanguageMiddleware\n)",
+        "detail": "app.apps.core.bot.middlewares_list",
+        "documentation": {}
+    },
+    {
+        "label": "GetUsername",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.states",
+        "description": "app.apps.core.bot.states",
+        "peekOfCode": "class GetUsername(StatesGroup):\n    get_username = State()",
+        "detail": "app.apps.core.bot.states",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "app.apps.core.management.commands.seed",
+        "description": "app.apps.core.management.commands.seed",
+        "peekOfCode": "class Command(BaseCommand):\n    help = 'Seed random test data into the database for another project'\n    def handle(self, *args, **options):\n        self.stdout.write(self.style.SUCCESS('Seeding data for another project...'))\n        # # Create Tariff Plans\n        # for _ in range(5):  # Adjust the number based on how many Tariff Plans you want\n        #     self.create_tariff_plan()\n        # Create Telegram Users and associated Search Lists\n        for _ in range(20):  # Adjust the number based on how many Telegram Users you want\n            user = self.create_telegram_user()",
+        "detail": "app.apps.core.management.commands.seed",
+        "documentation": {}
+    },
+    {
+        "label": "fake",
+        "kind": 5,
+        "importPath": "app.apps.core.management.commands.seed",
+        "description": "app.apps.core.management.commands.seed",
+        "peekOfCode": "fake = Faker()\nclass Command(BaseCommand):\n    help = 'Seed random test data into the database for another project'\n    def handle(self, *args, **options):\n        self.stdout.write(self.style.SUCCESS('Seeding data for another project...'))\n        # # Create Tariff Plans\n        # for _ in range(5):  # Adjust the number based on how many Tariff Plans you want\n        #     self.create_tariff_plan()\n        # Create Telegram Users and associated Search Lists\n        for _ in range(20):  # Adjust the number based on how many Telegram Users you want",
+        "detail": "app.apps.core.management.commands.seed",
+        "documentation": {}
+    },
+    {
+        "label": "BaseRepository",
+        "kind": 6,
+        "importPath": "app.apps.core.repositories.base",
+        "description": "app.apps.core.repositories.base",
+        "peekOfCode": "class BaseRepository:\n    def to_list(sql):\n        return [item for item in sql]",
+        "detail": "app.apps.core.repositories.base",
+        "documentation": {}
+    },
+    {
+        "label": "TariffRepository",
+        "kind": 6,
+        "importPath": "app.apps.core.repositories.tariff_repository",
+        "description": "app.apps.core.repositories.tariff_repository",
+        "peekOfCode": "class TariffRepository:\n    @sync_to_async\n    def save(self: None, data: dict) -> tuple[TariffPlan, bool]:\n        return TariffPlan.objects.create(\n            name=data['name'],\n            group_quantity=data['group_quantity'],\n            keyword_quantity=data['keyword_quantity'],\n            old_messages_offset=data['old_messages_offset'],\n            daemon_hours_quantity=data['daemon_hours_quantity']\n        )",
+        "detail": "app.apps.core.repositories.tariff_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "kind": 6,
+        "importPath": "app.apps.core.repositories.user_repository",
+        "description": "app.apps.core.repositories.user_repository",
+        "peekOfCode": "class UserRepository:\n    message: Message\n    @sync_to_async\n    def save(self: None, data: dict) -> tuple[TelegramUser, bool]:\n        return TelegramUser.objects.get_or_create(\n            telegram_id=data['telegram_id'],\n            telegram_username=data['telegram_username'],\n            telegram_name=data['telegram_name'],\n        )\n    @sync_to_async",
+        "detail": "app.apps.core.repositories.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "DTO",
+        "kind": 6,
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "peekOfCode": "class DTO(HasAttributes):\n    def __init__(self, data: dict | Model|None):\n        if isinstance(data, Model):\n            data = data.__dict__\n        if(data):\n            self.set_attributes(data)\n    def to_json(self):\n        return json.dumps(self.to_dict())\n    def to_dict(self):\n        dict = self.__dict__",
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
+        "label": "TariffDto",
+        "kind": 6,
+        "importPath": "app.apps.core.DTO",
+        "description": "app.apps.core.DTO",
+        "peekOfCode": "class TariffDto(DTO):\n    id: int | str = None\n    name = None\n    group_quantity = 0\n    keyword_quantity = 0\n    daemon_hours_quantity = 0\n    allowed_searches = 0\n    is_expired = 0",
+        "detail": "app.apps.core.DTO",
+        "documentation": {}
+    },
+    {
+        "label": "DemoConfig",
+        "kind": 6,
+        "importPath": "app.apps.core.apps",
+        "description": "app.apps.core.apps",
+        "peekOfCode": "class DemoConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"app.apps.core\"\n    def ready(self) -> None:\n        # Without this import, admin panel will not include this app\n        from app.apps.core.web import admin  # noqa: F401 (unused-import)",
+        "detail": "app.apps.core.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TariffPlan",
+        "kind": 6,
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "peekOfCode": "class TariffPlan(models.Model):\n    id=models.AutoField(primary_key=True)\n    name = models.CharField(max_length=500, unique=True)\n    is_default = models.BooleanField(default=False)\n    group_quantity = models.IntegerField()\n    keyword_quantity = models.IntegerField()\n    old_messages_offset = models.IntegerField()\n    daemon_hours_quantity = models.IntegerField()\n    allowed_searches = models.IntegerField(null=True)\n    created_at = models.DateTimeField(auto_now_add=True)",
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramUser",
+        "kind": 6,
+        "importPath": "app.apps.core.models",
+        "description": "app.apps.core.models",
+        "peekOfCode": "class TelegramUser(models.Model):\n    id=models.AutoField(primary_key=True)\n    telegram_username = models.CharField(max_length=80)\n    telegram_id = models.CharField(max_length=50, blank=True, null=True, unique=True)\n    telegram_name = models.CharField(max_length=50, blank=True, null=True)\n    phone_number = models.CharField(max_length=50, blank=True, null=True)\n    is_accepted_rules = models.BooleanField(default=False)\n    tariff_plan = models.ForeignKey(\n        TariffPlan, on_delete=models.SET_NULL, null=True, blank=True, related_name='telegram_user')\n    expired_at = models.DateTimeField(auto_now=True)",
+        "detail": "app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent.parent\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = env(\"DEBUG\", cast=bool, default=False)\n# Internationalization\n# https://docs.djangoproject.com/en/4.0/topics/i18n/\nLANGUAGE_CODE = env(\"LANGUAGE_CODE\", cast=str, default=\"en-us\")\nTIME_ZONE = env(\"TIME_ZONE\", cast=str, default=\"UTC\")\nUSE_I18N = env(\"USE_I18N\", cast=bool, default=True)\nUSE_TZ = env(\"USE_TZ\", cast=bool, default=True)\n# Default primary key field type",
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "peekOfCode": "DEBUG = env(\"DEBUG\", cast=bool, default=False)\n# Internationalization\n# https://docs.djangoproject.com/en/4.0/topics/i18n/\nLANGUAGE_CODE = env(\"LANGUAGE_CODE\", cast=str, default=\"en-us\")\nTIME_ZONE = env(\"TIME_ZONE\", cast=str, default=\"UTC\")\nUSE_I18N = env(\"USE_I18N\", cast=bool, default=True)\nUSE_TZ = env(\"USE_TZ\", cast=bool, default=True)\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "peekOfCode": "LANGUAGE_CODE = env(\"LANGUAGE_CODE\", cast=str, default=\"en-us\")\nTIME_ZONE = env(\"TIME_ZONE\", cast=str, default=\"UTC\")\nUSE_I18N = env(\"USE_I18N\", cast=bool, default=True)\nUSE_TZ = env(\"USE_TZ\", cast=bool, default=True)\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "peekOfCode": "TIME_ZONE = env(\"TIME_ZONE\", cast=str, default=\"UTC\")\nUSE_I18N = env(\"USE_I18N\", cast=bool, default=True)\nUSE_TZ = env(\"USE_TZ\", cast=bool, default=True)\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "peekOfCode": "USE_I18N = env(\"USE_I18N\", cast=bool, default=True)\nUSE_TZ = env(\"USE_TZ\", cast=bool, default=True)\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "peekOfCode": "USE_TZ = env(\"USE_TZ\", cast=bool, default=True)\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "app.config.application",
+        "description": "app.config.application",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "app.config.application",
+        "documentation": {}
+    },
+    {
+        "label": "RunningMode",
+        "kind": 6,
+        "importPath": "app.config.bot",
+        "description": "app.config.bot",
+        "peekOfCode": "class RunningMode(str, Enum):\n    LONG_POLLING = \"LONG_POLLING\"\n    WEBHOOK = \"WEBHOOK\"\nTG_TOKEN = env(\"TG_TOKEN\", cast=str)\nRUNNING_MODE = env(\"RUNNING_MODE\", cast=RunningMode, default=RunningMode.LONG_POLLING)\nWEBHOOK_URL = env(\"WEBHOOK_URL\", cast=str, default=\"\")",
+        "detail": "app.config.bot",
+        "documentation": {}
+    },
+    {
+        "label": "TG_TOKEN",
+        "kind": 5,
+        "importPath": "app.config.bot",
+        "description": "app.config.bot",
+        "peekOfCode": "TG_TOKEN = env(\"TG_TOKEN\", cast=str)\nRUNNING_MODE = env(\"RUNNING_MODE\", cast=RunningMode, default=RunningMode.LONG_POLLING)\nWEBHOOK_URL = env(\"WEBHOOK_URL\", cast=str, default=\"\")",
+        "detail": "app.config.bot",
+        "documentation": {}
+    },
+    {
+        "label": "RUNNING_MODE",
+        "kind": 5,
+        "importPath": "app.config.bot",
+        "description": "app.config.bot",
+        "peekOfCode": "RUNNING_MODE = env(\"RUNNING_MODE\", cast=RunningMode, default=RunningMode.LONG_POLLING)\nWEBHOOK_URL = env(\"WEBHOOK_URL\", cast=str, default=\"\")",
+        "detail": "app.config.bot",
+        "documentation": {}
+    },
+    {
+        "label": "WEBHOOK_URL",
+        "kind": 5,
+        "importPath": "app.config.bot",
+        "description": "app.config.bot",
+        "peekOfCode": "WEBHOOK_URL = env(\"WEBHOOK_URL\", cast=str, default=\"\")",
+        "detail": "app.config.bot",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "app.config.database",
+        "description": "app.config.database",
+        "peekOfCode": "DATABASE_URL = env(\"DATABASE_URL\", cast=str, default=\"sqlite:///db.sqlite3\")\nCONN_MAX_AGE = env(\"CONN_MAX_AGE\", cast=int, default=600)\nDATABASES = {\n    \"default\": dj_database_url.parse(DATABASE_URL, conn_max_age=CONN_MAX_AGE),\n}",
+        "detail": "app.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "CONN_MAX_AGE",
+        "kind": 5,
+        "importPath": "app.config.database",
+        "description": "app.config.database",
+        "peekOfCode": "CONN_MAX_AGE = env(\"CONN_MAX_AGE\", cast=int, default=600)\nDATABASES = {\n    \"default\": dj_database_url.parse(DATABASE_URL, conn_max_age=CONN_MAX_AGE),\n}",
+        "detail": "app.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "app.config.database",
+        "description": "app.config.database",
+        "peekOfCode": "DATABASES = {\n    \"default\": dj_database_url.parse(DATABASE_URL, conn_max_age=CONN_MAX_AGE),\n}",
+        "detail": "app.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "app.config.web",
+        "description": "app.config.web",
+        "peekOfCode": "SECRET_KEY = env(\n    \"SECRET_KEY\",\n    cast=str,\n    default=\"django-insecure-2cb-!o^00(qos7$0wf@$ai#h9!^(ov7w6cj%#0ui;o=ulo!83!\",\n)\nALLOWED_HOSTS = list(env(\"ALLOWED_HOSTS\", cast=CommaSeparatedStrings, default=[]))\nMIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",",
+        "detail": "app.config.web",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "app.config.web",
+        "description": "app.config.web",
+        "peekOfCode": "ALLOWED_HOSTS = list(env(\"ALLOWED_HOSTS\", cast=CommaSeparatedStrings, default=[]))\nMIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]",
+        "detail": "app.config.web",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "app.config.web",
+        "description": "app.config.web",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"app.delivery.web.urls\"",
+        "detail": "app.config.web",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "app.config.web",
+        "description": "app.config.web",
+        "peekOfCode": "ROOT_URLCONF = \"app.delivery.web.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "app.config.web",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "app.config.web",
+        "description": "app.config.web",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "app.config.web",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "app.config.web",
+        "description": "app.config.web",
+        "peekOfCode": "WSGI_APPLICATION = \"app.delivery.web.wsgi.application\"\n# Password validation\n# https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },",
+        "detail": "app.config.web",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "app.config.web",
+        "description": "app.config.web",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "app.config.web",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "app.config.web",
+        "description": "app.config.web",
+        "peekOfCode": "STATIC_URL = \"static/\"\nSTATIC_ROOT = BASE_DIR / \"static\"",
+        "detail": "app.config.web",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "app.config.web",
+        "description": "app.config.web",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / \"static\"",
+        "detail": "app.config.web",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "app.delivery.web.asgi",
+        "description": "app.delivery.web.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "app.delivery.web.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "app.delivery.web.wsgi",
+        "description": "app.delivery.web.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "app.delivery.web.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramInformator",
+        "kind": 6,
+        "importPath": "app.services.search_services.info.telegram_informator",
+        "description": "app.services.search_services.info.telegram_informator",
+        "peekOfCode": "class TelegramInformator(BaseClient):\n    bot: Bot\n    def __init__(self) -> None:\n        session = AiohttpSession()\n        self.bot = Bot(token=TG_TOKEN, session=session)\n    async def close_connection(self):\n        await self.bot.session.close()\n    async def send_msg(self, informed: InfoDto | List[InfoDto]):\n        async def send_or_reply_if_exists(dto: InfoDto):\n            try:",
+        "detail": "app.services.search_services.info.telegram_informator",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramWalker",
+        "kind": 6,
+        "importPath": "app.services.search_services.telegram_walker",
+        "description": "app.services.search_services.telegram_walker",
+        "peekOfCode": "class TelegramWalker:\n    def __init__(self) -> None:\n       pass\n    @telegram_iteration()\n    async def subscribe_to_chat(self):\n        pass",
+        "detail": "app.services.search_services.telegram_walker",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorLogger",
+        "kind": 6,
+        "importPath": "app.services.error_logger",
+        "description": "app.services.error_logger",
+        "peekOfCode": "class ErrorLogger:\n    def log():\n        pass",
+        "detail": "app.services.error_logger",
+        "documentation": {}
+    },
+    {
+        "label": "HasAttributes",
+        "kind": 6,
+        "importPath": "app.services.has_attributes",
+        "description": "app.services.has_attributes",
+        "peekOfCode": "class HasAttributes:\n    def set_attributes(self, data: dict):\n        for key, value in data.items():\n            if (hasattr(self, key)):\n                setattr(self, key, value)",
+        "detail": "app.services.has_attributes",
+        "documentation": {}
+    },
+    {
+        "label": "Redis",
+        "kind": 6,
+        "importPath": "app.services.redis",
+        "description": "app.services.redis",
+        "peekOfCode": "class Redis:\n    connection = redis.Redis(\n        host='localhost', port=6379, charset=\"utf-8\", db=0)\n    @staticmethod\n    def query() -> redis.Redis:\n        return Redis.connection\n    def get(self, key) -> redis.Redis:\n        data = self.query().get(key)\n        if (data != 'null' or data != None):\n            try:",
+        "detail": "app.services.redis",
+        "documentation": {}
+    },
+    {
+        "label": "telegram_daemon",
+        "kind": 2,
+        "importPath": "app.services.telethon_sessions",
+        "description": "app.services.telethon_sessions",
+        "peekOfCode": "def telegram_daemon():\n    def wrapper(func):\n        async def wrapped(obj, **args):\n            client:TelegramClient = await init_and_start()\n            await func(self=obj, client=client, **args)\n            await client.run_until_disconnected()\n        return wrapped\n    return wrapper\n# One iteration\ndef telegram_iteration():",
+        "detail": "app.services.telethon_sessions",
+        "documentation": {}
+    },
+    {
+        "label": "telegram_iteration",
+        "kind": 2,
+        "importPath": "app.services.telethon_sessions",
+        "description": "app.services.telethon_sessions",
+        "peekOfCode": "def telegram_iteration():\n    def wrapper(func):\n        async def wrapped(obj, **args):\n            client:TelegramClient = await init_and_start()\n            await func(self=obj, client=client, **args)\n            await client.disconnect()\n        return wrapped\n    return wrapper",
+        "detail": "app.services.telethon_sessions",
+        "documentation": {}
+    },
+    {
+        "label": "Translator",
+        "kind": 6,
+        "importPath": "app.services.translater",
+        "description": "app.services.translater",
+        "peekOfCode": "class Translator:\n    locale = 'en'  # В конструкторе не видны конфиги .env\n    @staticmethod\n    async def set_locale(locale: str):\n        if Translator.check_exists_locale(locale):\n            Translator.locale = locale\n    @staticmethod\n    def get_locale_path(locale: str):\n        return os.path.dirname(sys.modules['__main__'].__file__) + '/../../messages/'+locale\n    @staticmethod",
+        "detail": "app.services.translater",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "kind": 2,
+        "importPath": "app.services.translater",
+        "description": "app.services.translater",
+        "peekOfCode": "def t(key, locale=None, with_file_name=False, variables:dict|None = None):\n    return Translator().translate(key, locale, with_file_name, variables)",
+        "detail": "app.services.translater",
+        "documentation": {}
+    },
+    {
+        "label": "test_example",
+        "kind": 2,
+        "importPath": "tests.unit.test_example",
+        "description": "tests.unit.test_example",
+        "peekOfCode": "def test_example() -> None:\n    assert True",
+        "detail": "tests.unit.test_example",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main() -> None:\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"app.config.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
