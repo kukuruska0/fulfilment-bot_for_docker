@@ -1,6 +1,5 @@
 from aiogram import Router
 from aiogram.filters import Command
-from app.apps.core.bot.cases.telegram_user_case import TelegramUserCase
 from app.apps.core.bot.services.can_response import CanResponse
 from app.config.application import INSTALLED_APPS
 from aiogram import F
@@ -14,7 +13,6 @@ from aiogram import Bot, Router, types, F
 from sqlalchemy.ext.asyncio import AsyncSession
 from app.apps.core.bot.cases.__case import Case
 from app.apps.core.bot.services.has_iogram_entities import HasIogramEntites
-from app.apps.core.bot.cases.work_case import WorkCase
 
 
 class Controller(HasIogramEntites, CanResponse):

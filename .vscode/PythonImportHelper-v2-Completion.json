@@ -1,5 +1,766 @@
 [
     {
+        "label": "Final",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Final",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Final",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Final",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Final",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "asgiref.sync",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "async_to_sync",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "async_to_sync",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "async_to_sync",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "sync_to_async",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommand",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommand",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommand",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "Responder",
+        "importPath": "app.apps.core.bot.services.responder",
+        "description": "app.apps.core.bot.services.responder",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.responder",
+        "documentation": {}
+    },
+    {
+        "label": "Responder",
+        "importPath": "app.apps.core.bot.services.responder",
+        "description": "app.apps.core.bot.services.responder",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.responder",
+        "documentation": {}
+    },
+    {
+        "label": "Responder",
+        "importPath": "app.apps.core.bot.services.responder",
+        "description": "app.apps.core.bot.services.responder",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.responder",
+        "documentation": {}
+    },
+    {
+        "label": "Responder",
+        "importPath": "app.apps.core.bot.services.responder",
+        "description": "app.apps.core.bot.services.responder",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.responder",
+        "documentation": {}
+    },
+    {
+        "label": "CanResponse",
+        "importPath": "app.apps.core.bot.services.can_response",
+        "description": "app.apps.core.bot.services.can_response",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.can_response",
+        "documentation": {}
+    },
+    {
+        "label": "CanResponse",
+        "importPath": "app.apps.core.bot.services.can_response",
+        "description": "app.apps.core.bot.services.can_response",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.can_response",
+        "documentation": {}
+    },
+    {
+        "label": "CanResponse",
+        "importPath": "app.apps.core.bot.services.can_response",
+        "description": "app.apps.core.bot.services.can_response",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.can_response",
+        "documentation": {}
+    },
+    {
+        "label": "CanResponse",
+        "importPath": "app.apps.core.bot.services.can_response",
+        "description": "app.apps.core.bot.services.can_response",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.can_response",
+        "documentation": {}
+    },
+    {
+        "label": "HasIogramEntites",
+        "importPath": "app.apps.core.bot.services.has_iogram_entities",
+        "description": "app.apps.core.bot.services.has_iogram_entities",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.has_iogram_entities",
+        "documentation": {}
+    },
+    {
+        "label": "HasIogramEntites",
+        "importPath": "app.apps.core.bot.services.has_iogram_entities",
+        "description": "app.apps.core.bot.services.has_iogram_entities",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.has_iogram_entities",
+        "documentation": {}
+    },
+    {
+        "label": "HasIogramEntites",
+        "importPath": "app.apps.core.bot.services.has_iogram_entities",
+        "description": "app.apps.core.bot.services.has_iogram_entities",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.has_iogram_entities",
+        "documentation": {}
+    },
+    {
+        "label": "HasIogramEntites",
+        "importPath": "app.apps.core.bot.services.has_iogram_entities",
+        "description": "app.apps.core.bot.services.has_iogram_entities",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.has_iogram_entities",
+        "documentation": {}
+    },
+    {
+        "label": "HasIogramEntites",
+        "importPath": "app.apps.core.bot.services.has_iogram_entities",
+        "description": "app.apps.core.bot.services.has_iogram_entities",
+        "isExtraImport": true,
+        "detail": "app.apps.core.bot.services.has_iogram_entities",
+        "documentation": {}
+    },
+    {
         "label": "aiogram",
         "kind": 6,
         "isExtraImport": true,
@@ -305,30 +1066,6 @@
         "documentation": {}
     },
     {
-        "label": "CanResponse",
-        "importPath": "app.apps.core.bot.services.can_response",
-        "description": "app.apps.core.bot.services.can_response",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.services.can_response",
-        "documentation": {}
-    },
-    {
-        "label": "CanResponse",
-        "importPath": "app.apps.core.bot.services.can_response",
-        "description": "app.apps.core.bot.services.can_response",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.services.can_response",
-        "documentation": {}
-    },
-    {
-        "label": "CanResponse",
-        "importPath": "app.apps.core.bot.services.can_response",
-        "description": "app.apps.core.bot.services.can_response",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.services.can_response",
-        "documentation": {}
-    },
-    {
         "label": "INSTALLED_APPS",
         "importPath": "app.config.application",
         "description": "app.config.application",
@@ -377,550 +1114,6 @@
         "documentation": {}
     },
     {
-        "label": "*",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Callable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Awaitable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Callable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Awaitable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Callable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Awaitable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Callable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Awaitable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Final",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Final",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Final",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Final",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "Message",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "BotCommand",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "Message",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "BotCommand",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "Message",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "BotCommand",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "InlineKeyboardMarkup",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "Update",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "Update",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "user",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "Update",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "user",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "Update",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "user",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "Message",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "Message",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "Message",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "Message",
-        "importPath": "aiogram.types",
-        "description": "aiogram.types",
-        "isExtraImport": true,
-        "detail": "aiogram.types",
-        "documentation": {}
-    },
-    {
-        "label": "FSMContext",
-        "importPath": "aiogram.fsm.context",
-        "description": "aiogram.fsm.context",
-        "isExtraImport": true,
-        "detail": "aiogram.fsm.context",
-        "documentation": {}
-    },
-    {
-        "label": "FSMContext",
-        "importPath": "aiogram.fsm.context",
-        "description": "aiogram.fsm.context",
-        "isExtraImport": true,
-        "detail": "aiogram.fsm.context",
-        "documentation": {}
-    },
-    {
-        "label": "FSMContext",
-        "importPath": "aiogram.fsm.context",
-        "description": "aiogram.fsm.context",
-        "isExtraImport": true,
-        "detail": "aiogram.fsm.context",
-        "documentation": {}
-    },
-    {
-        "label": "FSMContext",
-        "importPath": "aiogram.fsm.context",
-        "description": "aiogram.fsm.context",
-        "isExtraImport": true,
-        "detail": "aiogram.fsm.context",
-        "documentation": {}
-    },
-    {
-        "label": "FSMContext",
-        "importPath": "aiogram.fsm.context",
-        "description": "aiogram.fsm.context",
-        "isExtraImport": true,
-        "detail": "aiogram.fsm.context",
-        "documentation": {}
-    },
-    {
-        "label": "FSMContext",
-        "importPath": "aiogram.fsm.context",
-        "description": "aiogram.fsm.context",
-        "isExtraImport": true,
-        "detail": "aiogram.fsm.context",
-        "documentation": {}
-    },
-    {
-        "label": "FSMContext",
-        "importPath": "aiogram.fsm.context",
-        "description": "aiogram.fsm.context",
-        "isExtraImport": true,
-        "detail": "aiogram.fsm.context",
-        "documentation": {}
-    },
-    {
         "label": "State",
         "importPath": "aiogram.fsm.state",
         "description": "aiogram.fsm.state",
@@ -1070,38 +1263,6 @@
         "description": "sqlalchemy.ext.asyncio",
         "isExtraImport": true,
         "detail": "sqlalchemy.ext.asyncio",
-        "documentation": {}
-    },
-    {
-        "label": "HasIogramEntites",
-        "importPath": "app.apps.core.bot.services.has_iogram_entities",
-        "description": "app.apps.core.bot.services.has_iogram_entities",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.services.has_iogram_entities",
-        "documentation": {}
-    },
-    {
-        "label": "HasIogramEntites",
-        "importPath": "app.apps.core.bot.services.has_iogram_entities",
-        "description": "app.apps.core.bot.services.has_iogram_entities",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.services.has_iogram_entities",
-        "documentation": {}
-    },
-    {
-        "label": "HasIogramEntites",
-        "importPath": "app.apps.core.bot.services.has_iogram_entities",
-        "description": "app.apps.core.bot.services.has_iogram_entities",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.services.has_iogram_entities",
-        "documentation": {}
-    },
-    {
-        "label": "HasIogramEntites",
-        "importPath": "app.apps.core.bot.services.has_iogram_entities",
-        "description": "app.apps.core.bot.services.has_iogram_entities",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.services.has_iogram_entities",
         "documentation": {}
     },
     {
@@ -1153,27 +1314,11 @@
         "documentation": {}
     },
     {
-        "label": "TelegramUserCase",
-        "importPath": "app.apps.core.bot.cases.telegram_user_case",
-        "description": "app.apps.core.bot.cases.telegram_user_case",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.cases.telegram_user_case",
-        "documentation": {}
-    },
-    {
         "label": "Case",
         "importPath": "app.apps.core.bot.cases.__case",
         "description": "app.apps.core.bot.cases.__case",
         "isExtraImport": true,
         "detail": "app.apps.core.bot.cases.__case",
-        "documentation": {}
-    },
-    {
-        "label": "WorkCase",
-        "importPath": "app.apps.core.bot.cases.work_case",
-        "description": "app.apps.core.bot.cases.work_case",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.cases.work_case",
         "documentation": {}
     },
     {
@@ -1280,87 +1425,6 @@
         "description": "app.apps.core.bot.keyboards.buttons",
         "isExtraImport": true,
         "detail": "app.apps.core.bot.keyboards.buttons",
-        "documentation": {}
-    },
-    {
-        "label": "asgiref.sync",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "asgiref.sync",
-        "description": "asgiref.sync",
-        "detail": "asgiref.sync",
-        "documentation": {}
-    },
-    {
-        "label": "sync_to_async",
-        "importPath": "asgiref.sync",
-        "description": "asgiref.sync",
-        "isExtraImport": true,
-        "detail": "asgiref.sync",
-        "documentation": {}
-    },
-    {
-        "label": "sync_to_async",
-        "importPath": "asgiref.sync",
-        "description": "asgiref.sync",
-        "isExtraImport": true,
-        "detail": "asgiref.sync",
-        "documentation": {}
-    },
-    {
-        "label": "sync_to_async",
-        "importPath": "asgiref.sync",
-        "description": "asgiref.sync",
-        "isExtraImport": true,
-        "detail": "asgiref.sync",
-        "documentation": {}
-    },
-    {
-        "label": "sync_to_async",
-        "importPath": "asgiref.sync",
-        "description": "asgiref.sync",
-        "isExtraImport": true,
-        "detail": "asgiref.sync",
-        "documentation": {}
-    },
-    {
-        "label": "async_to_sync",
-        "importPath": "asgiref.sync",
-        "description": "asgiref.sync",
-        "isExtraImport": true,
-        "detail": "asgiref.sync",
-        "documentation": {}
-    },
-    {
-        "label": "sync_to_async",
-        "importPath": "asgiref.sync",
-        "description": "asgiref.sync",
-        "isExtraImport": true,
-        "detail": "asgiref.sync",
-        "documentation": {}
-    },
-    {
-        "label": "async_to_sync",
-        "importPath": "asgiref.sync",
-        "description": "asgiref.sync",
-        "isExtraImport": true,
-        "detail": "asgiref.sync",
-        "documentation": {}
-    },
-    {
-        "label": "async_to_sync",
-        "importPath": "asgiref.sync",
-        "description": "asgiref.sync",
-        "isExtraImport": true,
-        "detail": "asgiref.sync",
-        "documentation": {}
-    },
-    {
-        "label": "sync_to_async",
-        "importPath": "asgiref.sync",
-        "description": "asgiref.sync",
-        "isExtraImport": true,
-        "detail": "asgiref.sync",
         "documentation": {}
     },
     {
@@ -1577,30 +1641,6 @@
         "description": "app.apps.core.bot.controllers.home_controller",
         "isExtraImport": true,
         "detail": "app.apps.core.bot.controllers.home_controller",
-        "documentation": {}
-    },
-    {
-        "label": "Responder",
-        "importPath": "app.apps.core.bot.services.responder",
-        "description": "app.apps.core.bot.services.responder",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.services.responder",
-        "documentation": {}
-    },
-    {
-        "label": "Responder",
-        "importPath": "app.apps.core.bot.services.responder",
-        "description": "app.apps.core.bot.services.responder",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.services.responder",
-        "documentation": {}
-    },
-    {
-        "label": "Responder",
-        "importPath": "app.apps.core.bot.services.responder",
-        "description": "app.apps.core.bot.services.responder",
-        "isExtraImport": true,
-        "detail": "app.apps.core.bot.services.responder",
         "documentation": {}
     },
     {
@@ -2231,6 +2271,15 @@
         "importPath": "sys",
         "description": "sys",
         "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Case",
+        "kind": 6,
+        "importPath": "app.apps.core.bot.cases.__case",
+        "description": "app.apps.core.bot.cases.__case",
+        "peekOfCode": "class Case(CanResponse, HasIogramEntites):\n    def __init__(self, message: Message | None = None) -> None:\n        if message:\n            self.message = message",
+        "detail": "app.apps.core.bot.cases.__case",
         "documentation": {}
     },
     {
