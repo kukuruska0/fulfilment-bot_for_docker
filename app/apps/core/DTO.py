@@ -1,17 +1,17 @@
 from typing import List
 from django.db.models import Model
 import json
-from app.apps.core.models import Search, TariffPlan, TelegramUser
+from app.apps.core.models import TariffPlan, TelegramUser
 from app.apps.core.bot.enum import SearchType
 from app.services.has_attributes import HasAttributes
 
 
 class DTO(HasAttributes):
-    def __init__(self, data: dict | Model|None):
+    def __init__(self, data: dict | Model | None):
         if isinstance(data, Model):
             data = data.__dict__
 
-        if(data):
+        if data:
             self.set_attributes(data)
 
     def to_json(self):
@@ -19,17 +19,15 @@ class DTO(HasAttributes):
 
     def to_dict(self):
         dict = self.__dict__
-        
+
         for key, item in dict.items():
             if isinstance(item, DTO):
                 dict[key] = item.to_dict()
-                
+
             elif isinstance(item, Model):
                 dict[key] = item.__dict__
-                
-        return dict
 
-    
+        return dict
 
 
 class TariffDto(DTO):

@@ -5,8 +5,8 @@ from app.services.redis import Redis
 from aiogram.exceptions import TelegramBadRequest
 from app.apps.core.bot.helpers import messager
 from app.apps.core.bot.services.messager import Messager
-from app.apps.core.DTO import SearchDto, TariffDto
-from app.services.search_services.telegram_walker import TelegramWalker
+# from app.apps.core.DTO import SearchDto, TariffDto
+# from app.services.search_services.telegram_walker import TelegramWalker
 
 
 class CanResponse:

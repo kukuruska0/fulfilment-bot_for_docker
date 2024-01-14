@@ -1,10 +1,7 @@
 version: "3.8"
 services:
-  allrent:
-    build: ./
-    # env_file: .env понадобится для конфига базы
-    volumes:
-      - ./app:/app
-      - ./app/static:/app/static
-    ports:
-      - 8000:8000
+  bot:
+    build: .
+    command: sh -c "python -m app.delivery.bot"
+    env_file: ./.env
+    restart: always

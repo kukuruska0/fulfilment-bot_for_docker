@@ -1,10 +1,9 @@
 import logging
 
 from aiogram import Bot, Dispatcher
-from aiogram.types import BotCommand
 
 from app.apps.core.bot.routes.user_router import router as core_router
-from app.apps.core.bot.routes.admin_router import router as admin_router
+# from app.apps.core.bot.routes.admin_router import router as admin_router
 from app.config.bot import MIDDLEWARE, RUNNING_MODE, RunningMode, TG_TOKEN
 
 bot = Bot(TG_TOKEN, parse_mode="HTML")
@@ -17,7 +16,7 @@ logger = logging.getLogger(__name__)
 
 def _register_routers() -> None:
     dispatcher.include_router(core_router)
-    dispatcher.include_router(admin_router)
+    # dispatcher.include_router(admin_router)
 
 
 # async def _set_bot_commands() -> None:
@@ -29,16 +28,16 @@ def _register_routers() -> None:
 #         ]
 #     )
 
-def _register_middleware() -> None:
-    for m in MIDDLEWARE:
-        dispatcher.update.outer_middleware.register(m())
+# def _register_middleware() -> None:
+#     for m in MIDDLEWARE:
+#         dispatcher.update.outer_middleware.register(m())
 
 
 @dispatcher.startup()
 async def on_startup() -> None:
     # Register all routers
     _register_routers()
-    _register_middleware()
+    # _register_middleware()
 
     # Set default commands
     # await _set_bot_commands()
@@ -46,7 +45,7 @@ async def on_startup() -> None:
 
 def run_polling() -> None:
     dispatcher.run_polling(bot,
-                        #    allowed_updates=dispatcher.resolve_used_update_types()
+                           #    allowed_updates=dispatcher.resolve_used_update_types()
                            )
 
 

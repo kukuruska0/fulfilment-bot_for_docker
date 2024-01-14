@@ -8,16 +8,16 @@ from app.apps.core.DTO import TariffDto
 class UserRepository:
     message: Message
     model = TelegramUser
-    
+
     @sync_to_async
     def save_and_set_tariff(self: None, data: dict, tariff: TariffPlan | None = None, get_entities: bool | None = None):
         user = TelegramUser.objects.filter(
             telegram_id=data['telegram_id']).first()
 
-        if (not user):
+        if not user:
             user = TelegramUser(telegram_id=data['telegram_id'])
-            
-        if (not tariff):
+
+        if not tariff:
             tariff = TariffPlan.objects.filter(is_default=True).first()
 
         user.telegram_username = data['telegram_username']
@@ -33,8 +33,8 @@ class UserRepository:
             return False
 
     @sync_to_async
-    def set_tariff(self: None,  user:TelegramUser, tariff: TariffPlan | None = None, get_entities: bool = False):
-        if (not tariff):
+    def set_tariff(self: None, user: TelegramUser, tariff: TariffPlan | None = None, get_entities: bool = False):
+        if not tariff:
             tariff = TariffPlan.objects.filter(is_default=True).first()
 
         try:
@@ -54,22 +54,21 @@ class UserRepository:
     @sync_to_async
     def get_tariff(self: None, id: int):
         user = TelegramUser.objects.filter(telegram_id=id).first()
-        
+
         return user.tariff_plan
-    
-    #TODO Calculate tariff
+
+    # TODO Calculate tariff
     @sync_to_async
-    def get_permited_tariff(self: None, user_or_id: int|TelegramUser, with_dto=True)-> TariffDto:
+    def get_permited_tariff(self: None, user_or_id: int | TelegramUser, with_dto=True) -> TariffDto:
         if not isinstance(user_or_id, TelegramUser):
             user = TelegramUser.objects.filter(telegram_id=user_or_id).first()
         else:
             user = user_or_id
-            
-        if(user):
+
+        if user:
             if with_dto:
                 return TariffDto(user.tariff_plan)
-            
+
             return user.tariff_plan
         else:
             return None
-

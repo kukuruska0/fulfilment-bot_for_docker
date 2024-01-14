@@ -1,5 +1,4 @@
 from aiogram.filters.callback_data import CallbackData
-from app.apps.core.DTO import KeywordsDto
 
 
 class UserCallbackData(CallbackData, prefix='user'):

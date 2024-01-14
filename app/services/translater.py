@@ -4,7 +4,7 @@ import sys
 
 
 class Translator:
-    locale = 'en'  # В конструкторе не видны конфиги .env
+    locale = 'ru'  # В конструкторе не видны конфиги .env
 
     @staticmethod
     async def set_locale(locale: str):

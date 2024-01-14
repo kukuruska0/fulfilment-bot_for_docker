@@ -21,8 +21,7 @@ class Controller(HasIogramEntites, CanResponse):
     def __init__(self, *args):
         HasIogramEntites.__init__(self, *args)
         self.set_to_case()
-        
-        
+
     # def __init__(self, message: Message, bot: Bot | None = None, state: FSMContext | None = None):
     #     HasIogramEntites.__init__(self, message, bot, state)
     #     self.set_case()

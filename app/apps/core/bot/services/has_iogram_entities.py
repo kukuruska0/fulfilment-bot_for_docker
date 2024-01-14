@@ -19,7 +19,7 @@ class HasIogramEntites:
     def set_state(self, state: FSMContext):
         self.state = state
 
-    def set_args(self, message: Message| None = None, bot: Bot | None = None, state: FSMContext | None = None) -> None:
+    def set_args(self, message: Message | None = None, bot: Bot | None = None, state: FSMContext | None = None) -> None:
         self.message = message
         self.chat = message.chat
         self.bot = bot
@@ -27,13 +27,12 @@ class HasIogramEntites:
 
     def __init__(self, message: Message, bot: Bot | None = None, state: FSMContext | None = None) -> None:
         self.set_args(message, bot, state)
-        
-        
+
     def get_user_id(self):
-        return self.message.from_user.id  
-          
+        return self.message.from_user.id
+
     def get_msg_id(self):
-        return self.message.message_id     
-      
+        return self.message.message_id
+
     def get_chat_id(self):
         return self.chat.id
