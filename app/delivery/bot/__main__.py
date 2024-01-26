@@ -1,10 +1,13 @@
 import logging
+from pathlib import Path
 
 from aiogram import Bot, Dispatcher
 
+from app.apps.core.bot.middlewares import LanguageMiddleware
 from app.apps.core.bot.routes.user_router import router as core_router
 # from app.apps.core.bot.routes.admin_router import router as admin_router
 from app.config.bot import MIDDLEWARE, RUNNING_MODE, RunningMode, TG_TOKEN
+from app.services.i18n_translater import i18n_middleware
 
 bot = Bot(TG_TOKEN, parse_mode="HTML")
 
@@ -28,16 +31,16 @@ def _register_routers() -> None:
 #         ]
 #     )
 
-# def _register_middleware() -> None:
-#     for m in MIDDLEWARE:
-#         dispatcher.update.outer_middleware.register(m())
+def _register_middleware() -> None:
+    dispatcher.update.outer_middleware.register(LanguageMiddleware())
+    i18n_middleware.setup(dispatcher)
 
 
 @dispatcher.startup()
 async def on_startup() -> None:
     # Register all routers
     _register_routers()
-    # _register_middleware()
+    _register_middleware()
 
     # Set default commands
     # await _set_bot_commands()

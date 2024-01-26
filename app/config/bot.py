@@ -17,7 +17,5 @@ WEBHOOK_URL = env("WEBHOOK_URL", cast=str, default="")
 
 
 MIDDLEWARE = (
-    HasTariffMiddleware,
-    MainMiddleware,
     LanguageMiddleware
 )

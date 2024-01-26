@@ -1,16 +1,16 @@
 from aiogram.types import *
 
-from app.messages.ru.commands import *
+from aiogram.utils.i18n import gettext as _
 
 
 def start_kb():
     return ReplyKeyboardMarkup(keyboard=[
-        [KeyboardButton(text=cmd_calculate), KeyboardButton(text=cmd_technical_task)],
-        [KeyboardButton(text=cmd_product), KeyboardButton(text=cmd_address)],
-        [KeyboardButton(text=cmd_price), KeyboardButton(text=cmd_agreement)],
-        [KeyboardButton(text=cmd_shipment), KeyboardButton(text=cmd_spoilage)],
-        [KeyboardButton(text=cmd_complaints)],
-        [KeyboardButton(text=cmd_links)]
+        [KeyboardButton(text='📑 ' + _('Расчёт')), KeyboardButton(text='🛠 ' + _('Тех задание'))],
+        [KeyboardButton(text='📦 ' + _('Забор товара')), KeyboardButton(text='📍 ' + _('Адрес'))],
+        [KeyboardButton(text='📈 ' + _('Прайс')), KeyboardButton(text='📝 ' + _('Договор'))],
+        [KeyboardButton(text='🚚 ' + _('Отгрузка')), KeyboardButton(text='🚫 ' + _('Брак'))],
+        [KeyboardButton(text='❓ ' + _('Рекламации'))],
+        [KeyboardButton(text='🔗 ' + _('Ссылки'))]
 
     ])
 

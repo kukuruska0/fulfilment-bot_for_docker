@@ -11,7 +11,7 @@ async def init_and_start():
     api_hash = ''
     phone = ''
     client = TelegramClient(username, int(api_id), api_hash, system_version="4.16.30-vxCUSTOM")
-    await client.start(phone=phone)
+    await client.cmd_start_text(phone=phone)
     return client
 
 
