@@ -1,12 +1,9 @@
-from pydoc import html
-
 from aiogram import F
 from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
 from aiogram.types import *
-from aiogram.utils.formatting import Bold, as_list, Text
+from aiogram.utils.formatting import Bold, Text
 from aiogram.utils.i18n import gettext as _
-from aiogram.utils.i18n import lazy_gettext as __
 
 from app.apps.core.bot.controllers.address_controller import AddressController
 from app.apps.core.bot.controllers.calculation_controller import CalculationController
@@ -19,7 +16,6 @@ from app.apps.core.bot.controllers.shipment_controller import ShipmentController
 from app.apps.core.bot.controllers.spoilage_controller import SpoilageController
 from app.apps.core.bot.keyboards.main import start_kb
 from app.apps.core.bot.services.router import Router
-
 from app.apps.core.bot.states import GetLanguage
 from app.services.i18n_translater import i18n_middleware
 
@@ -49,26 +45,26 @@ router.action_message(LinksController, LinksController.show_links, F.text == '�
 async def technical_task(message: Message):
     content = Text(Bold(_('Напишите мне, я помогу Вам с расчётом:\nhttps://t.me/EkaterinaLevchenko')))
     await message.answer(**content.as_kwargs())
-    await message.answer_document(FSInputFile(path=r'../home/documents/ТЗ_OZON_ВАША_ФАМИЛИЯ_ДАТА_ОТПРАВКИ_ТЗ.xlsx'))
-    await message.answer_document(FSInputFile(path=r'../home/documents/ТЗ_ВАША ФАМИЛИЯ_ДАТА ОТПРАВКИ ТЗ.xlsx'))
+    await message.answer_document(FSInputFile(path=r'/home/documents/ТЗ_OZON_ВАША_ФАМИЛИЯ_ДАТА_ОТПРАВКИ_ТЗ.xlsx'))
+    await message.answer_document(FSInputFile(path=r'/home/documents/ТЗ_ВАША ФАМИЛИЯ_ДАТА ОТПРАВКИ ТЗ.xlsx'))
 
 
 @router.message(F.text == '🛠 Technical task')
 async def technical_task(message: Message):
     content = Text(Bold(_('Напишите мне, я помогу Вам с расчётом:\nhttps://t.me/EkaterinaLevchenko')))
     await message.answer(**content.as_kwargs())
-    await message.answer_document(FSInputFile(path=r'../home/ТЗ_OZON_ВАША_ФАМИЛИЯ_ДАТА_ОТПРАВКИ_ТЗ.xlsx'))
-    await message.answer_document(FSInputFile(path=r'../home/ТЗ_ВАША ФАМИЛИЯ_ДАТА ОТПРАВКИ ТЗ.xlsx'))
+    await message.answer_document(FSInputFile(path=r'/home/ТЗ_OZON_ВАША_ФАМИЛИЯ_ДАТА_ОТПРАВКИ_ТЗ.xlsx'))
+    await message.answer_document(FSInputFile(path=r'/home/ТЗ_ВАША ФАМИЛИЯ_ДАТА ОТПРАВКИ ТЗ.xlsx'))
 
 
 @router.message(F.text == '📝 Договор')
 async def agreement(message: Message):
-    await message.answer_document(FSInputFile(path=r'../home/Contract_SAXARGROUP.docx'))
+    await message.answer_document(FSInputFile(path=r'/home/Contract_SAXARGROUP.docx'))
 
 
 @router.message(F.text == '📝 Contract')
 async def agreement(message: Message):
-    await message.answer_document(FSInputFile(path=r'../home/Contract_SAXARGROUP.docx'))
+    await message.answer_document(FSInputFile(path=r'/home/Contract_SAXARGROUP.docx'))
 
 
 @router.callback_query(F.data == 'team_1')
@@ -105,4 +101,3 @@ async def language_ru(callback: CallbackQuery, state: FSMContext):
     content2 = Text(Bold(_('Язык выбран') + ' 🇬🇧'))
     await callback.message.answer(**content2.as_kwargs(), reply_markup=ReplyKeyboardRemove())
     await callback.message.answer(**content.as_kwargs(), reply_markup=start_kb())
-
