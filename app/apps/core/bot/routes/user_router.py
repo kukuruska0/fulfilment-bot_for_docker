@@ -45,26 +45,26 @@ router.action_message(LinksController, LinksController.show_links, F.text == '�
 async def technical_task(message: Message):
     content = Text(Bold(_('Напишите мне, я помогу Вам с расчётом:\nhttps://t.me/EkaterinaLevchenko')))
     await message.answer(**content.as_kwargs())
-    await message.answer_document(FSInputFile(path=r'/home/documents/ТЗ_OZON_ВАША_ФАМИЛИЯ_ДАТА_ОТПРАВКИ_ТЗ.xlsx'))
-    await message.answer_document(FSInputFile(path=r'/home/documents/ТЗ_ВАША ФАМИЛИЯ_ДАТА ОТПРАВКИ ТЗ.xlsx'))
+    await message.answer('https://docs.google.com/spreadsheets/d/1aKHtu2WfY9QIylXH2fVzanB4fYwdn8y8/edit?usp=drive_link&ouid=110660432788308438181&rtpof=true&sd=true')
+    await message.answer('https://docs.google.com/spreadsheets/d/1-CL8bwQWQxSas0dZ2Uzb8W-7Do9Hx8HL/edit?usp=drive_link&ouid=110660432788308438181&rtpof=true&sd=true')
 
 
 @router.message(F.text == '🛠 Technical task')
 async def technical_task(message: Message):
     content = Text(Bold(_('Напишите мне, я помогу Вам с расчётом:\nhttps://t.me/EkaterinaLevchenko')))
     await message.answer(**content.as_kwargs())
-    await message.answer_document(FSInputFile(path=r'/home/ТЗ_OZON_ВАША_ФАМИЛИЯ_ДАТА_ОТПРАВКИ_ТЗ.xlsx'))
-    await message.answer_document(FSInputFile(path=r'/home/ТЗ_ВАША ФАМИЛИЯ_ДАТА ОТПРАВКИ ТЗ.xlsx'))
+    await message.answer('https://docs.google.com/spreadsheets/d/1aKHtu2WfY9QIylXH2fVzanB4fYwdn8y8/edit?usp=drive_link&ouid=110660432788308438181&rtpof=true&sd=true')
+    await message.answer('https://docs.google.com/spreadsheets/d/1-CL8bwQWQxSas0dZ2Uzb8W-7Do9Hx8HL/edit?usp=drive_link&ouid=110660432788308438181&rtpof=true&sd=true')
 
 
 @router.message(F.text == '📝 Договор')
 async def agreement(message: Message):
-    await message.answer_document(FSInputFile(path=r'/home/Contract_SAXARGROUP.docx'))
+    await message.answer('https://docs.google.com/document/d/1Tr6K-ZCZOaWlEhypFfsQlwFHks105fnf/edit?usp=drive_link&ouid=110660432788308438181&rtpof=true&sd=true')
 
 
 @router.message(F.text == '📝 Contract')
 async def agreement(message: Message):
-    await message.answer_document(FSInputFile(path=r'/home/Contract_SAXARGROUP.docx'))
+    await message.answer('https://docs.google.com/document/d/1Tr6K-ZCZOaWlEhypFfsQlwFHks105fnf/edit?usp=drive_link&ouid=110660432788308438181&rtpof=true&sd=true')
 
 
 @router.callback_query(F.data == 'team_1')
