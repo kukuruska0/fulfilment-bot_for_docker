@@ -1,0 +1,161 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-01-17 03:02+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: app/apps/core/bot/keyboards/links.py:8
+msgid "Перейти на сайт"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/links.py:9
+msgid "Перейти в чат"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/main.py:12
+msgid "Расчёт"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/main.py:12
+msgid "Тех задание"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/main.py:13
+msgid "Забор товара"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/main.py:13
+msgid "Адрес"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/main.py:14
+msgid "Прайс"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/main.py:14
+msgid "Договор"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/main.py:15
+msgid "Отгрузка"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/main.py:15
+msgid "Брак"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/main.py:16
+msgid "Рекламации"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/main.py:17
+msgid "Ссылки"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/teams.py:8
+msgid "Команда Стаса"
+msgstr ""
+
+#: app/apps/core/bot/keyboards/teams.py:9
+msgid "Команда Артёма"
+msgstr ""
+
+#: app/apps/core/bot/routes/user_router.py:50
+#: app/apps/core/bot/routes/user_router.py:57
+msgid ""
+"Напишите мне, я помогу Вам с расчётом:\n"
+"https://t.me/EkaterinaLevchenko"
+msgstr ""
+
+#: app/apps/core/bot/routes/user_router.py:74
+msgid ""
+"Конакты команды Стаса:\n"
+"https://t.me/saxargroupFf"
+msgstr ""
+
+#: app/apps/core/bot/routes/user_router.py:80
+msgid ""
+"Конакты команды Артема:\n"
+"https://t.me/SAXAR_GROUP_team_Artem"
+msgstr ""
+
+#: app/apps/core/bot/routes/user_router.py:89
+#: app/apps/core/bot/routes/user_router.py:98
+msgid "Язык выбран"
+msgstr ""
+
+#: app/apps/core/bot/routes/user_router.py:90
+#: app/apps/core/bot/routes/user_router.py:99
+msgid ""
+"Здравствуйте!\n"
+"\n"
+"Выберите нужный пункт"
+msgstr ""
+
+#: app/apps/core/bot/services/messager.py:22
+msgid "Выберите язык"
+msgstr ""
+
+#: app/apps/core/bot/services/messager.py:34
+msgid "https://t.me/Batiscafa"
+msgstr ""
+
+#: app/apps/core/bot/services/messager.py:40
+msgid ""
+"Привет, я Вера, рада видеть тебя на нашем фулфилменте\n"
+"График заборов с ТЯК: понедельник, среда и пятница.\n"
+"Стоимость:1 тюк - 1000 р.От 5 тюков - 700 р./тюкОт 10 тюков - 600 р./тюк\n"
+"\n"
+"Садовод, Южные ворота и КАРГО\n"
+"от 1200р р./тюк\n"
+"\n"
+"Контакты для забора:\n"
+" https://t.me/vera_fulfillment"
+msgstr ""
+
+#: app/apps/core/bot/services/messager.py:46
+msgid "https://docs.google.com/spreadsheets/d/1PFVLzmoJlY48RNd2O17q9x81GvPmGQuz47XsyhI6Dpg/edit#gid=0"
+msgstr ""
+
+#: app/apps/core/bot/services/messager.py:52
+msgid "Выберите нужный пункт:"
+msgstr ""
+
+#: app/apps/core/bot/services/messager.py:58
+msgid ""
+"Наш адрес:\n"
+"Улица 65 лет Победы, 1лит2Д\n"
+"Люберцы, Московская область\n"
+"\n"
+"https://yandex.ru/navi/?whatshere%5Bzoom%5D=18&whatshere%5Bpoint%5D=37.884100%2C55.685127&lang=ru&from=navi"
+msgstr ""
+
+#: app/apps/core/bot/services/messager.py:64
+msgid ""
+"По поводу брака пишите своему менеджеру, который координировал вашу "
+"отгрузку."
+msgstr ""
+
+#: app/apps/core/bot/services/messager.py:70
+msgid ""
+"Контакты по рекламациям:\n"
+"\n"
+"https://t.me/Elena_Bugrimova"
+msgstr ""
+
+#: app/apps/core/bot/services/messager.py:76
+msgid "Ссылки на наши соц.сети и сайты"
+msgstr ""
