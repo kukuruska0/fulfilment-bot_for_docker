@@ -49,8 +49,8 @@ router.action_message(LinksController, LinksController.show_links, F.text == '�
 async def technical_task(message: Message):
     content = Text(Bold(_('Напишите мне, я помогу Вам с расчётом:\nhttps://t.me/EkaterinaLevchenko')))
     await message.answer(**content.as_kwargs())
-    await message.answer_document(FSInputFile(path=r'../home/documents/ТЗ_OZON_ВАША_ФАМИЛИЯ_ДАТА_ОТПРАВКИ_ТЗ.xlsx'))
-    await message.answer_document(FSInputFile(path=r'../home/documents/ТЗ_ВАША ФАМИЛИЯ_ДАТА ОТПРАВКИ ТЗ.xlsx'))
+    await message.answer_document(FSInputFile(path=r'../home/ТЗ_OZON_ВАША_ФАМИЛИЯ_ДАТА_ОТПРАВКИ_ТЗ.xlsx'))
+    await message.answer_document(FSInputFile(path=r'../home/ТЗ_ВАША ФАМИЛИЯ_ДАТА ОТПРАВКИ ТЗ.xlsx'))
 
 
 @router.message(F.text == '🛠 Technical task')
